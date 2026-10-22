@@ -67,7 +67,7 @@
       <h3>🎲 <a href="https://github.com/Martinelli-Davi/rpg">RPG Manager — Sistema de Gestão de Campanhas & Fichas</a></h3>
       <p>
         Plataforma web completa desenvolvida com <b>Python e Django</b> para gerenciamento de mesas de RPG. 
-        Permite que mestres administrem campanhas com múltiplos jogadores, controlem fichas de personagens com atributos dinâmicos e perícias com cálculos automáticos de status (Estabilidade, Essência e Cansaço).
+        Permite que mestres administrem campanhas com múltiplos jogadores, controlem fichas de personagens com atributos dinâmicos e perícias com cálculos automáticos.
       </p>
       <p>
         <b>Tecnologias:</b> 
